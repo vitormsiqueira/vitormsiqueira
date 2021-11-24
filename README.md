@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalhando com análise de dados
 - 🌱 Estudando Flutter, Java, Go ...
 - 📫 Contate-me no email: vmsvitor@outlook.com
-
+- 🥰 Cada vez mais me apaixonando por desenvolvimento de software (tô falando de vc flutter)
 
 <div align="center">
   <a href="https://github.com/vitormsiqueira">
