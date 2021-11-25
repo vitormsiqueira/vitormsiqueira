@@ -5,6 +5,7 @@
 - 🌱 Estudando Flutter, Java, Go ...
 - 📫 Contate-me no email: vmsvitor@outlook.com
 - 🥰 Cada vez mais me apaixonando por desenvolvimento de software (tô falando de vc flutter)
+- 📖 Aprendendo a ser um programador melhor estudando o livro Clean Code do tio Bob 
 
 <div align="center">
   <a href="https://github.com/vitormsiqueira">
