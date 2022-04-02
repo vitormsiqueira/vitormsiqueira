@@ -1,7 +1,7 @@
 # Olá! Sou o Vitor Siqueira
 
 
-- 🔭 Atualmente trabalhando com análise de dados
+- 🔭 Atualmente trabalhando com desenvolimento mobile e dados
 - 🌱 Estudando Flutter, Java, Go ...
 - 📫 Contate-me no email: vmsvitor@outlook.com
 - 🥰 Cada vez mais me apaixonando por desenvolvimento de software (tô falando de vc flutter)
