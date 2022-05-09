@@ -1,19 +1,22 @@
-# Olá! Sou o Vitor Siqueira
+# Olá! Sou o Vitor Siqueira <img src="https://komarev.com/ghpvc/?username=vitormsiqueira&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
+<img src="https://github.com/vitormsiqueira/vitormsiqueira/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Vitor Siqueira">
 
 
-- 🔭 Atualmente trabalhando com desenvolimento mobile e dados
-- 🌱 Estudando Flutter, Java, Go ...
+- 🔭 Atualmente trabalhando com desenvolvimento front-end (mobile e web) e dados
+- 🌱 Estudando Flutter, React, JS, Typescript, Java, Go ...
 - 📫 Contate-me no email: vmsvitor@outlook.com
-- 🥰 Cada vez mais me apaixonando por desenvolvimento de software (tô falando de vc flutter)
+- 🥰 Cada vez mais me apaixonando por desenvolvimento de software
 - 📖 Aprendendo a ser um programador melhor estudando o livro Clean Code do tio Bob 
+<br>
 
-<div align="center">
+
+<div align="left">
   <a href="https://github.com/vitormsiqueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormsiqueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormsiqueira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormsiqueira&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormsiqueira&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
